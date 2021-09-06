@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_title  {
+    text-align: center;
+}
+.inputSectionDiv > input {
+    text-align: center;
+}
+
+.green{
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
